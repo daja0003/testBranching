@@ -1,2 +1,2 @@
 console.log("welcome from JS");
-alert("BOOOOOOO!");
+alert("BOOOOOOO from js file!");
